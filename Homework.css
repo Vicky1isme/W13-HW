@@ -1,0 +1,35 @@
+div{
+     background-color: lightyellow;
+     margin: auto;
+     width: 24%;
+     border: 3px solid green;
+     padding: 10px;
+ }
+ .a{
+    border: 2px solid yellow;
+    width:300px;height:20px
+
+ }
+ .style{
+    /* border: 2px solid red;*/
+
+     width:170px;height:20px
+
+}
+.b{
+    border: 3px solid green;
+    width:300px;height:20px
+}
+
+h2{
+    text-decoration: underline;
+    color: purple;
+}
+table {
+  width: 100%;
+}
+table, th, td {
+  border: 1px solid black;
+  color: purple;
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
